@@ -1,0 +1,20 @@
+[
+  {
+  "age": 70,
+  "place_of_residence": "Žáclěr",
+  "hobbies": "vaření",
+  "social_service_interest": "vlastní kuchyň",
+  "health_status": "nebyly zmíněny žádné zdravotní problémy",
+  "medical_diagnosis": null,
+  "life_limitations": null
+},
+{
+  "place_of_residence": "Žacléř",
+  "age": null,
+  "hobbies": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null,
+  "social_service_interest": null
+}
+]

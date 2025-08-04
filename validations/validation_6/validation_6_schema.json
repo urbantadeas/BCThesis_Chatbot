@@ -1,0 +1,20 @@
+[
+ {
+  "age": 60,
+  "place_of_residence": "Trutnov",
+  "hobbies": null,
+  "social_service_interest": "zařízení s výtahem",
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null
+},
+{
+  "age": null,
+  "place_of_residence": null,
+  "hobbies": null,
+  "social_service_interest": "výtah",
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": "potřeba výtahu"
+} 
+]

@@ -1,0 +1,20 @@
+[
+  {
+  "age": 60,
+  "place_of_residence": "Zacléř",
+  "hobbies": null,
+  "social_service_interest": "zařízení s výtahem",
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null
+},
+{
+  "age": null,
+  "place_of_residence": "Zacléř",
+  "hobbies": null,
+  "social_service_interest": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null
+}
+]

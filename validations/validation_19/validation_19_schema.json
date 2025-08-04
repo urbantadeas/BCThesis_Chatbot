@@ -1,0 +1,20 @@
+[
+{
+  "age": 80,
+  "place_of_residence": "Praha",
+  "hobbies": "hudba",
+  "social_service_interest": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null
+},
+{
+  "age": null,
+  "place_of_residence": "Praha",
+  "hobbies": null,
+  "social_service_interest": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null
+}
+]

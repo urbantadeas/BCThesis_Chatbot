@@ -1,0 +1,15 @@
+Ověřovací doložka změny datového formátu dokumentu podle § 69a zákona č. 499/2004 Sb.
+Změnou datového formátu se nepotvrzuje správnost a pravdivost údajů obsažených v dokumentu a jejich soulad s právními předpisy.
+Vstupující dokument nebyl podepsán.
+Typ vstupního dokumentu:
+.PDF
+Otisk souboru:
+986F7C8974BEFD6652AB6F87BC19751784CC64A4EB8CBB5B6FE72A6A984B9A88
+Použitý algoritmus:
+SHA256_SBB 2.16.840.1.101.3.4.2.1
+Subjekt, který změnu formátu dokumentu provedl:
+Moravskoslezský kraj,  28. října 2771/117,  70218 Ostrava, posta@msk.cz
+Datum vyhotovení ověřovací doložky:
+1.2.2023
+Jméno a příjmení osoby, která změnu formátu dokumentu provedla:
+Robot Karel

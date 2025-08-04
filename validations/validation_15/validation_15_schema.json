@@ -1,0 +1,20 @@
+[
+  {
+  "age": 75,
+  "place_of_residence": "Praha",
+  "hobbies": "čtení, zahradničení",
+  "social_service_interest": "domov pro seniory, denní stacionář",
+  "health_status": "stabilní, ale má problémy s pohybem",
+  "medical_diagnosis": "artróza",
+  "life_limitations": "omezená pohyblivost, potřebuje pomoc při chůzi"
+},
+{
+  "place_of_residence": "Praha",
+  "age": null,
+  "hobbies": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null,
+  "social_service_interest": null
+}
+]

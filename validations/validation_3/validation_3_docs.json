@@ -1,0 +1,40 @@
+[
+{
+  "age": 80,
+  "place_of_residence": "Sychrov",
+  "hobbies": null,
+  "social_service_interest": "domov pro seniory s wifi a pomocí při osobní hygieně",
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": "potřeba pomoci při osobní hygieně"
+},
+{
+  "place_of_residence": "Sychrov",
+  "age": null,
+  "hobbies": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null,
+  "social_service_interest": null
+},
+{
+  "age": 80,
+  "place_of_residence": "Sychrov",
+  "hobbies": null,
+  "social_service_interest": "wifi",
+  "health_status": "potřebuje pomoc při osobní hygieně",
+  "medical_diagnosis": null,
+  "life_limitations": "potřebuje pomoc při osobní hygieně"
+},
+{
+  "place_of_residence": "Sychrov",
+  "age": null,
+  "hobbies": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null,
+  "social_service_interest": null
+}
+
+
+]

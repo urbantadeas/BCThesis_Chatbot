@@ -1,0 +1,47 @@
+[
+  {
+  "age": 70,
+  "place_of_residence": "Trutnov",
+  "hobbies": "vaření",
+  "social_service_interest": "vlastní kuchyň",
+  "health_status": "nebyly zmíněny",
+  "medical_diagnosis": "nebyly zmíněny",
+  "life_limitations": "nebyly zmíněny"
+},
+{
+  "age": null,
+  "place_of_residence": null,
+  "hobbies": null,
+  "social_service_interest": "vlastní kuchyň",
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null
+},
+{
+  "age": null,
+  "place_of_residence": null,
+  "hobbies": null,
+  "social_service_interest": "vlastní kuchyně",
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null
+},
+{
+  "place_of_residence": "Trutnov",
+  "age": null,
+  "hobbies": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null,
+  "social_service_interest": null
+},
+{
+  "place_of_residence": "Trutnov",
+  "age": null,
+  "hobbies": null,
+  "health_status": null,
+  "medical_diagnosis": null,
+  "life_limitations": null,
+  "social_service_interest": null
+}
+]
