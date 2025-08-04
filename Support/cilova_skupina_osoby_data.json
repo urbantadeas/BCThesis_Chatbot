@@ -1,0 +1,275 @@
+{
+    "pocet": 27,
+    "seznam": [
+        {
+            "id": 3742,
+            "kod": "1",
+            "nazev": "děti a mládež ve věku od 6 do 26 let ohrožené společensky nežádoucími jevy",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3766,
+            "kod": "25",
+            "nazev": "etnické menšiny",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3743,
+            "kod": "2",
+            "nazev": "imigranti a azylanti",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3744,
+            "kod": "3",
+            "nazev": "oběti domácího násilí",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3745,
+            "kod": "4",
+            "nazev": "oběti obchodu s lidmi",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3746,
+            "kod": "5",
+            "nazev": "oběti trestné činnosti",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3747,
+            "kod": "6",
+            "nazev": "osoby bez přístřeší",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3748,
+            "kod": "7",
+            "nazev": "osoby do 26 let věku opouštějící školská zařízení pro výkon ústavní péče",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3749,
+            "kod": "8",
+            "nazev": "osoby komerčně zneužívané",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3750,
+            "kod": "9",
+            "nazev": "osoby ohrožené závislostí nebo závislé na návykových látkách",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3751,
+            "kod": "10",
+            "nazev": "osoby s chronickým duševním onemocněním",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3752,
+            "kod": "11",
+            "nazev": "osoby s chronickým onemocněním",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3753,
+            "kod": "12",
+            "nazev": "osoby s jiným zdravotním postižením",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3754,
+            "kod": "13",
+            "nazev": "osoby s kombinovaným postižením",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3755,
+            "kod": "14",
+            "nazev": "osoby s mentálním postižením",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 11102,
+            "kod": "27",
+            "nazev": "osoby s potřebou paliativní péče",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3756,
+            "kod": "15",
+            "nazev": "osoby s tělesným postižením",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3757,
+            "kod": "16",
+            "nazev": "osoby se sluchovým postižením",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3758,
+            "kod": "17",
+            "nazev": "osoby se zdravotním postižením",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3759,
+            "kod": "18",
+            "nazev": "osoby se zrakovým postižením",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3760,
+            "kod": "19",
+            "nazev": "osoby v krizi",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3761,
+            "kod": "20",
+            "nazev": "osoby žijící v sociálně vyloučených komunitách",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3762,
+            "kod": "21",
+            "nazev": "osoby, které vedou rizikový způsob života nebo jsou tímto způsobem života ohroženy",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3763,
+            "kod": "22",
+            "nazev": "pachatelé trestné činnosti",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 11079,
+            "kod": "26",
+            "nazev": "pečující osoby",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3764,
+            "kod": "23",
+            "nazev": "rodiny s dítětem/dětmi",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3765,
+            "kod": "24",
+            "nazev": "senioři",
+            "ciselnik": "CilovaSkupinaOsoby",
+            "platnostOd": 1733266800000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        }
+    ]
+}

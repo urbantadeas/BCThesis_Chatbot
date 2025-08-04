@@ -1,0 +1,187 @@
+{
+    "list": [
+        {
+            "adresa": {
+                "id": 333201961,
+                "strukturovanaAdresa": {
+                    "adresniMisto": {
+                        "castObce": {
+                            "id": 400190,
+                            "kod": null,
+                            "nazev": null,
+                            "obec": null,
+                            "platnostDo": null,
+                            "platnostOd": null
+                        },
+                        "cisloDomovni": 23,
+                        "cisloOrientacni": "15",
+                        "id": 21959234,
+                        "kodAdresnihoMista": 21959234,
+                        "kodTypuCislaDomovniho": "1",
+                        "mestskyObvodMestskaCast": {
+                            "id": 500119,
+                            "kod": null,
+                            "mestskeObvodyVPraze": null,
+                            "nazev": null,
+                            "obec": null
+                        },
+                        "psc": {
+                            "id": 14700,
+                            "kodPsc": null,
+                            "kodTypuPsc": null
+                        },
+                        "ulice": {
+                            "id": 457281,
+                            "kod": null,
+                            "nazev": null,
+                            "obec": null,
+                            "platnostDo": null,
+                            "platnostOd": null
+                        }
+                    },
+                    "aktualizovatZRuian": true,
+                    "cisloDomovni": 23,
+                    "cisloOrientacni": "15",
+                    "dodatekAdresy": null,
+                    "id": 102705048,
+                    "jeOkresPraha": true,
+                    "kodAdresnihoMista": 21959234,
+                    "kodByvalehoOkresu": null,
+                    "kodCastiObce": "400190",
+                    "kodKraje": "19",
+                    "kodMomc": 500119,
+                    "kodMop": 43,
+                    "kodObce": "554782",
+                    "kodOkresu": null,
+                    "kodSop": 43,
+                    "kodUlice": "457281",
+                    "nazevByvalehoOkresu": null,
+                    "nazevCastiObce": "Podolí",
+                    "nazevKraje": "Hlavní město Praha",
+                    "nazevMomc": "Praha 4",
+                    "nazevMop": "Praha 4",
+                    "nazevObce": "Praha",
+                    "nazevObceProZobrazeni": "Praha 4",
+                    "nazevOkresu": null,
+                    "nazevSop": "Praha 4",
+                    "nazevUlice": "Na dolinách",
+                    "posta": null,
+                    "psc": "14700",
+                    "statusObce": 5,
+                    "typAdresy": 8044,
+                    "typCislaDomovnihoId": 4485,
+                    "typObceProZobrazeniId": 5403
+                },
+                "typZdroje": "rpss",
+                "volnaAdresa": null,
+                "zahranicniAdresa": null,
+                "zdroj": "1822_53640121_30879680"
+            },
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 309458092,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 2565,
+            "telefon": null,
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4470,
+                "kod": "adrZar",
+                "nazev": "Adresa sídla subjektu",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": {
+                "id": 350267,
+                "identifikaceDatoveSchranky": "ra6mq38"
+            },
+            "email": null,
+            "fax": null,
+            "id": 309458089,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 2565,
+            "telefon": null,
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4471,
+                "kod": "ds",
+                "nazev": "Datová schránka",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": "info@dsmachova.cz",
+            "fax": null,
+            "id": 309458087,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 2565,
+            "telefon": null,
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4473,
+                "kod": "mail",
+                "nazev": "E-mail",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 309458090,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 2565,
+            "telefon": "777 111 206",
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4476,
+                "kod": "tel",
+                "nazev": "Telefon",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 309458088,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 2565,
+            "telefon": null,
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": "www.dsmachova.cz",
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4479,
+                "kod": "web",
+                "nazev": "Webová adresa",
+                "vlastnosti": null
+            }
+        }
+    ]
+}

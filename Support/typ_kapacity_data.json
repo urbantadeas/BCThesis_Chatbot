@@ -1,0 +1,55 @@
+{
+    "pocet": 5,
+    "seznam": [
+        {
+            "id": 7378,
+            "kod": "hovor",
+            "nazev": "Počet hovorů",
+            "ciselnik": "TypKapacitySocialniSluzby",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7376,
+            "kod": "interv",
+            "nazev": "Počet intervencí (30 min. jednání)",
+            "ciselnik": "TypKapacitySocialniSluzby",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7374,
+            "kod": "klient",
+            "nazev": "Počet klientů",
+            "ciselnik": "TypKapacitySocialniSluzby",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7375,
+            "kod": "kontakt",
+            "nazev": "Počet kontaktů (10 min. jednání)",
+            "ciselnik": "TypKapacitySocialniSluzby",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7377,
+            "kod": "luzka",
+            "nazev": "Počet lůžek",
+            "ciselnik": "TypKapacitySocialniSluzby",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        }
+    ]
+}

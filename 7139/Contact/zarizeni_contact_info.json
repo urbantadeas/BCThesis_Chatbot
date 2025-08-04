@@ -1,0 +1,100 @@
+{
+    "list": [
+        {
+            "adresa": {
+                "id": 333201960,
+                "strukturovanaAdresa": {
+                    "adresniMisto": {
+                        "castObce": {
+                            "id": 409448,
+                            "kod": null,
+                            "nazev": null,
+                            "obec": null,
+                            "platnostDo": null,
+                            "platnostOd": null
+                        },
+                        "cisloDomovni": 1094,
+                        "cisloOrientacni": "1",
+                        "id": 17909708,
+                        "kodAdresnihoMista": 17909708,
+                        "kodTypuCislaDomovniho": "1",
+                        "mestskyObvodMestskaCast": {
+                            "id": 502316,
+                            "kod": null,
+                            "mestskeObvodyVPraze": null,
+                            "nazev": null,
+                            "obec": null
+                        },
+                        "psc": {
+                            "id": 40003,
+                            "kodPsc": null,
+                            "kodTypuPsc": null
+                        },
+                        "ulice": {
+                            "id": 618357,
+                            "kod": null,
+                            "nazev": null,
+                            "obec": null,
+                            "platnostDo": null,
+                            "platnostOd": null
+                        }
+                    },
+                    "aktualizovatZRuian": true,
+                    "cisloDomovni": 1094,
+                    "cisloOrientacni": "1",
+                    "dodatekAdresy": null,
+                    "id": 102705047,
+                    "jeOkresPraha": false,
+                    "kodAdresnihoMista": 17909708,
+                    "kodByvalehoOkresu": null,
+                    "kodCastiObce": "409448",
+                    "kodKraje": "60",
+                    "kodMomc": 502316,
+                    "kodMop": null,
+                    "kodObce": "554804",
+                    "kodOkresu": "3510",
+                    "kodSop": null,
+                    "kodUlice": "618357",
+                    "nazevByvalehoOkresu": null,
+                    "nazevCastiObce": "Střekov",
+                    "nazevKraje": "Ústecký kraj",
+                    "nazevMomc": "Ústí nad Labem-Střekov",
+                    "nazevMop": null,
+                    "nazevObce": "Ústí nad Labem",
+                    "nazevObceProZobrazeni": "Ústí nad Labem",
+                    "nazevOkresu": "Ústí nad Labem",
+                    "nazevSop": null,
+                    "nazevUlice": "Máchova",
+                    "posta": null,
+                    "psc": "40003",
+                    "statusObce": 4,
+                    "typAdresy": 8044,
+                    "typCislaDomovnihoId": 4485,
+                    "typObceProZobrazeniId": 5402
+                },
+                "typZdroje": "rpss",
+                "volnaAdresa": null,
+                "zahranicniAdresa": null,
+                "zdroj": "1822_53497199_30879683"
+            },
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 309458091,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 15301,
+            "telefon": null,
+            "typSubjektu": "ZarizeniSocialniSluzby",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4470,
+                "kod": "adrZar",
+                "nazev": "Adresa sídla subjektu",
+                "vlastnosti": null
+            }
+        }
+    ]
+}

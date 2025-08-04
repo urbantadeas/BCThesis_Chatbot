@@ -1,0 +1,114 @@
+[
+    {
+        "id": 19,
+        "kod": "19",
+        "nazev": "Hlavní město Praha",
+        "platnostOd": "2016-11-23",
+        "platnostDo": null,
+        "kodNuts": "CZ010"
+    },
+    {
+        "id": 27,
+        "kod": "27",
+        "nazev": "Středočeský kraj",
+        "platnostOd": "2025-07-03",
+        "platnostDo": null,
+        "kodNuts": "CZ020"
+    },
+    {
+        "id": 35,
+        "kod": "35",
+        "nazev": "Jihočeský kraj",
+        "platnostOd": "2024-09-25",
+        "platnostDo": null,
+        "kodNuts": "CZ031"
+    },
+    {
+        "id": 43,
+        "kod": "43",
+        "nazev": "Plzeňský kraj",
+        "platnostOd": "2024-09-25",
+        "platnostDo": null,
+        "kodNuts": "CZ032"
+    },
+    {
+        "id": 51,
+        "kod": "51",
+        "nazev": "Karlovarský kraj",
+        "platnostOd": "2023-06-21",
+        "platnostDo": null,
+        "kodNuts": "CZ041"
+    },
+    {
+        "id": 60,
+        "kod": "60",
+        "nazev": "Ústecký kraj",
+        "platnostOd": "2024-11-14",
+        "platnostDo": null,
+        "kodNuts": "CZ042"
+    },
+    {
+        "id": 78,
+        "kod": "78",
+        "nazev": "Liberecký kraj",
+        "platnostOd": "2024-06-19",
+        "platnostDo": null,
+        "kodNuts": "CZ051"
+    },
+    {
+        "id": 86,
+        "kod": "86",
+        "nazev": "Královéhradecký kraj",
+        "platnostOd": "2025-05-19",
+        "platnostDo": null,
+        "kodNuts": "CZ052"
+    },
+    {
+        "id": 94,
+        "kod": "94",
+        "nazev": "Pardubický kraj",
+        "platnostOd": "2025-07-03",
+        "platnostDo": null,
+        "kodNuts": "CZ053"
+    },
+    {
+        "id": 108,
+        "kod": "108",
+        "nazev": "Kraj Vysočina",
+        "platnostOd": "2025-01-17",
+        "platnostDo": null,
+        "kodNuts": "CZ063"
+    },
+    {
+        "id": 116,
+        "kod": "116",
+        "nazev": "Jihomoravský kraj",
+        "platnostOd": "2024-08-12",
+        "platnostDo": null,
+        "kodNuts": "CZ064"
+    },
+    {
+        "id": 124,
+        "kod": "124",
+        "nazev": "Olomoucký kraj",
+        "platnostOd": "2024-04-18",
+        "platnostDo": null,
+        "kodNuts": "CZ071"
+    },
+    {
+        "id": 132,
+        "kod": "132",
+        "nazev": "Moravskoslezský kraj",
+        "platnostOd": "2024-05-22",
+        "platnostDo": null,
+        "kodNuts": "CZ080"
+    },
+    {
+        "id": 141,
+        "kod": "141",
+        "nazev": "Zlínský kraj",
+        "platnostOd": "2024-08-12",
+        "platnostDo": null,
+        "kodNuts": "CZ072"
+    }
+]

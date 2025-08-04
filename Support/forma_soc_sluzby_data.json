@@ -1,0 +1,35 @@
+{
+    "pocet": 3,
+    "seznam": [
+        {
+            "id": 3882,
+            "kod": "amb",
+            "nazev": "Ambulantní",
+            "ciselnik": "FormaSocSluzby",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3883,
+            "kod": "pob",
+            "nazev": "Pobytová",
+            "ciselnik": "FormaSocSluzby",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3884,
+            "kod": "ter",
+            "nazev": "Terénní",
+            "ciselnik": "FormaSocSluzby",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        }
+    ]
+}

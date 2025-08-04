@@ -1,0 +1,67 @@
+{
+    "list": [
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": "domov@ddceskydub.cz",
+            "fax": null,
+            "id": 309071355,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 7123,
+            "telefon": null,
+            "typSubjektu": "SocialniSluzba",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4473,
+                "kod": "mail",
+                "nazev": "E-mail",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 309071354,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 7123,
+            "telefon": "482 362 010",
+            "typSubjektu": "SocialniSluzba",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4476,
+                "kod": "tel",
+                "nazev": "Telefon",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 309071356,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 7123,
+            "telefon": null,
+            "typSubjektu": "SocialniSluzba",
+            "web": "www.ddceskydub.cz",
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4479,
+                "kod": "web",
+                "nazev": "Webová adresa",
+                "vlastnosti": null
+            }
+        }
+    ]
+}

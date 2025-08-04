@@ -1,0 +1,1495 @@
+{
+    "pocet": 149,
+    "seznam": [
+        {
+            "id": 7736,
+            "kod": "121",
+            "nazev": "Akciová společnost",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7785,
+            "kod": "431",
+            "nazev": "Banka - akciová společnost",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7757,
+            "kod": "312",
+            "nazev": "Banka - státní peněžní ústav",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7748,
+            "kod": "233",
+            "nazev": "Bytové družstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7827,
+            "kod": "721",
+            "nazev": "Církve a náboženské společnosti",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7759,
+            "kod": "314",
+            "nazev": "Česká konsolidační agentura",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7758,
+            "kod": "313",
+            "nazev": "Česká národní banka",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7772,
+            "kod": "362",
+            "nazev": "Česká tisková kancelář",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7768,
+            "kod": "351",
+            "nazev": "Československé státní dráhy - státní organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7839,
+            "kod": "771",
+            "nazev": "Dobrovolný svazek obcí",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7750,
+            "kod": "241",
+            "nazev": "Družstevní podnik (s 1 zakladatelem)",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7745,
+            "kod": "211",
+            "nazev": "Družstevní podnik zemědělský",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7744,
+            "kod": "205",
+            "nazev": "Družstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7828,
+            "kod": "722",
+            "nazev": "Evidované církevní právnické osoby",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7854,
+            "kod": "933",
+            "nazev": "Evropská družstevní společnost",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7853,
+            "kod": "932",
+            "nazev": "Evropská společnost",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7852,
+            "kod": "931",
+            "nazev": "Evropské hospodářské zájmové sdružení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7858,
+            "kod": "941",
+            "nazev": "Evropské seskupení pro územní spolupráci",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7807,
+            "kod": "602",
+            "nazev": "Fakulta vysoké školy",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7865,
+            "kod": "998",
+            "nazev": "Fyzická osoba nepodnikající",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7724,
+            "kod": "105",
+            "nazev": "Fyzická osoba podnikající dle jiného zákona nezapsaná v OR",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7725,
+            "kod": "106",
+            "nazev": "Fyzická osoba podnikající dle jiného zákona zapsaná v OR",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7720,
+            "kod": "101",
+            "nazev": "Fyzická osoba podnikající dle ŽZ nezapsaná v OR",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7721,
+            "kod": "102",
+            "nazev": "Fyzická osoba podnikající dle ŽZ zapsaná v OR",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7741,
+            "kod": "152",
+            "nazev": "Garanční fond obchodníků s cennými papíry",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7838,
+            "kod": "761",
+            "nazev": "Honební společenstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7804,
+            "kod": "536",
+            "nazev": "Jednotka drážního správního úřadu",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7803,
+            "kod": "535",
+            "nazev": "Jednotka sboru ozbrojené ochrany železnic",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7802,
+            "kod": "534",
+            "nazev": "Jednotka státní drážní inspekce",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7749,
+            "kod": "234",
+            "nazev": "Jiné družstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7808,
+            "kod": "603",
+            "nazev": "Jiné pracoviště vysoké školy / fakulty",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7740,
+            "kod": "151",
+            "nazev": "Komoditní burza",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7836,
+            "kod": "745",
+            "nazev": "Komora (hospodářská, agrární)",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7842,
+            "kod": "804",
+            "nazev": "Kraj",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7844,
+            "kod": "811",
+            "nazev": "Městská část, městský obvod",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7850,
+            "kod": "921",
+            "nazev": "Mezinárodní nevládní organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7847,
+            "kod": "907",
+            "nazev": "Mezinárodní odborová organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7848,
+            "kod": "908",
+            "nazev": "Mezinárodní organizace zaměstnavatelů",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7860,
+            "kod": "951",
+            "nazev": "Mezinárodní vojenská organizace vzniklá na základě mezinárodní smlouvy",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7734,
+            "kod": "117",
+            "nazev": "Nadace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7735,
+            "kod": "118",
+            "nazev": "Nadační fond",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7755,
+            "kod": "302",
+            "nazev": "Národní podnik",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7817,
+            "kod": "701",
+            "nazev": "Občanské sdružení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7840,
+            "kod": "801",
+            "nazev": "Obec",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7738,
+            "kod": "141",
+            "nazev": "Obecně prospěšná společnost",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7767,
+            "kod": "343",
+            "nazev": "Obecní podnik",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7799,
+            "kod": "531",
+            "nazev": "Oblastní organizační jednotka ČD",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7796,
+            "kod": "514",
+            "nazev": "Oblastní závod pojišťovny",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7823,
+            "kod": "707",
+            "nazev": "Odborová organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7819,
+            "kod": "703",
+            "nazev": "Odborová organizace a organizace zaměstnavatelů",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7793,
+            "kod": "501",
+            "nazev": "Odštěpný závod",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7783,
+            "kod": "425",
+            "nazev": "Odštěpný závod zahraniční fyzické osoby",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7779,
+            "kod": "421",
+            "nazev": "Odštěpný závod zahraniční právnické osoby",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7841,
+            "kod": "802",
+            "nazev": "Okresní úřad",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7824,
+            "kod": "708",
+            "nazev": "Organizace zaměstnavatelů",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7851,
+            "kod": "922",
+            "nazev": "Organizační jednotka mezinárodní nevládní organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7831,
+            "kod": "732",
+            "nazev": "Organizační jednotka politické strany",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7830,
+            "kod": "731",
+            "nazev": "Organizační jednotka sdružení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7833,
+            "kod": "734",
+            "nazev": "Organizační jednotka zvláštní organizace pro zastoupení českých zájmů v mezinárodních nevládních organizacích",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7761,
+            "kod": "325",
+            "nazev": "Organizační složka státu",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7781,
+            "kod": "423",
+            "nazev": "Organizační složka zahraniční nadace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7780,
+            "kod": "422",
+            "nazev": "Organizační složka zahraničního nadačního fondu",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7866,
+            "kod": "999",
+            "nazev": "Ostatní",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7795,
+            "kod": "513",
+            "nazev": "Pobočka spořitelny",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7794,
+            "kod": "511",
+            "nazev": "Pobočka státního peněžního ústavu",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7856,
+            "kod": "937",
+            "nazev": "Pobočná mezinárodní odborová organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7857,
+            "kod": "938",
+            "nazev": "Pobočná mezinárodní organizace zaměstnavatelů",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7832,
+            "kod": "733",
+            "nazev": "Pobočná odborová organizace a organizace zaměstnavatelů",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7834,
+            "kod": "736",
+            "nazev": "Pobočný spolek",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7805,
+            "kod": "541",
+            "nazev": "Podílový fond",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7826,
+            "kod": "715",
+            "nazev": "Podnik nebo hospodářské zařízení politické strany",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7821,
+            "kod": "705",
+            "nazev": "Podnik nebo hospodářské zařízení sdružení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7778,
+            "kod": "411",
+            "nazev": "Podnik se zahraniční majetkovou účastí",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7791,
+            "kod": "441",
+            "nazev": "Podnik zahraničního obchodu",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7719,
+            "kod": "100",
+            "nazev": "Podnikající fyzická osoba tuzemská",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7818,
+            "kod": "702",
+            "nazev": "Pojišťovací spolek",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7788,
+            "kod": "436",
+            "nazev": "Pojišťovna - akciová společnost",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7790,
+            "kod": "438",
+            "nazev": "Pojišťovna - družstevní podnik",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7789,
+            "kod": "437",
+            "nazev": "Pojišťovna - družstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7787,
+            "kod": "435",
+            "nazev": "Pojišťovna - státní podnik",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7825,
+            "kod": "711",
+            "nazev": "Politická strana, politické hnutí",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7861,
+            "kod": "960",
+            "nazev": "Právnická osoba zřízená zvláštním zákonem zapisovaná do veřejného rejstříku",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7812,
+            "kod": "631",
+            "nazev": "Předškolní zařízení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7763,
+            "kod": "331",
+            "nazev": "Příspěvková organizace zřízená územním samosprávným celkem",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7770,
+            "kod": "353",
+            "nazev": "Rada pro veřejný dohled nad auditem",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7843,
+            "kod": "805",
+            "nazev": "Regionální rada regionu soudržnosti",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7760,
+            "kod": "321",
+            "nazev": "Rozpočtová organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7835,
+            "kod": "741",
+            "nazev": "Samosprávná stavovská organizace (profesní komora)",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7797,
+            "kod": "521",
+            "nazev": "Samostatná drobná provozovna (obecního úřadu)",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7722,
+            "kod": "103",
+            "nazev": "Samostatně hospodařící rolník nezapsaný v OR",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7723,
+            "kod": "104",
+            "nazev": "Samostatně hospodařící rolník zapsaný v OR",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7777,
+            "kod": "401",
+            "nazev": "Sdružení mezinárodního obchodu",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7801,
+            "kod": "533",
+            "nazev": "Specializovaná organizační jednotka ČD",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7739,
+            "kod": "145",
+            "nazev": "Společenství vlastníků jednotek",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7753,
+            "kod": "261",
+            "nazev": "Společná zájmová organizace družstev",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7730,
+            "kod": "113",
+            "nazev": "Společnost komanditní",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7731,
+            "kod": "114",
+            "nazev": "Společnost komanditní na akcie",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7729,
+            "kod": "112",
+            "nazev": "Společnost s ručením omezeným",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7732,
+            "kod": "115",
+            "nazev": "Společný podnik",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7751,
+            "kod": "242",
+            "nazev": "Společný podnik (s více zakladateli)",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7822,
+            "kod": "706",
+            "nazev": "Spolek",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7786,
+            "kod": "432",
+            "nazev": "Spořitelna",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7747,
+            "kod": "232",
+            "nazev": "Spotřební družstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7769,
+            "kod": "352",
+            "nazev": "Správa železniční dopravní cesty, státní organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7762,
+            "kod": "326",
+            "nazev": "Stálý rozhodčí soud",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7756,
+            "kod": "311",
+            "nazev": "Státní banka československá",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7773,
+            "kod": "381",
+            "nazev": "Státní fond ze zákona",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7774,
+            "kod": "382",
+            "nazev": "Státní fond ze zákona nezapisující se do obchodního rejstříku",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7766,
+            "kod": "341",
+            "nazev": "Státní hospodářská organizace řízená okresním úřadem",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7754,
+            "kod": "301",
+            "nazev": "Státní podnik",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7764,
+            "kod": "332",
+            "nazev": "Státní příspěvková organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7765,
+            "kod": "333",
+            "nazev": "Státní příspěvková organizace ostatní",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7809,
+            "kod": "611",
+            "nazev": "Střední škola",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7859,
+            "kod": "950",
+            "nazev": "Subjekt právním řádem výslovně neupravený",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7829,
+            "kod": "723",
+            "nazev": "Svazy církví a náboženských společností",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7737,
+            "kod": "131",
+            "nazev": "Svépomocné zemědělské družstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7862,
+            "kod": "961",
+            "nazev": "Svěřenský fond",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7813,
+            "kod": "641",
+            "nazev": "Školská právnická osoba",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7811,
+            "kod": "625",
+            "nazev": "Školské zařízení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7800,
+            "kod": "532",
+            "nazev": "Účelová organizační jednotka ČD",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7792,
+            "kod": "442",
+            "nazev": "Účelová zahraniční obchodní organizace",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7742,
+            "kod": "161",
+            "nazev": "Ústav",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7728,
+            "kod": "111",
+            "nazev": "Veřejná obchodní společnost",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7815,
+            "kod": "661",
+            "nazev": "Veřejná výzkumná instituce",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7816,
+            "kod": "671",
+            "nazev": "Veřejné neziskové ústavní zdravotnické zařízení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7771,
+            "kod": "361",
+            "nazev": "Veřejnoprávní instituce",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7798,
+            "kod": "525",
+            "nazev": "Vnitřní organizační jednotka organizační složky státu",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7776,
+            "kod": "392",
+            "nazev": "Všeobecná zdravotní pojišťovna",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7746,
+            "kod": "231",
+            "nazev": "Výrobní družstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7806,
+            "kod": "601",
+            "nazev": "Vysoká škola (veřejná, státní)",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7782,
+            "kod": "424",
+            "nazev": "Zahraniční fyzická osoba",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7849,
+            "kod": "911",
+            "nazev": "Zahraniční kulturní, informační středisko, rozhlasová, tisková a televizní agentura",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7864,
+            "kod": "997",
+            "nazev": "Zahraniční osoba jinde neuvedená",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7855,
+            "kod": "936",
+            "nazev": "Zahraniční pobočný spolek",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7846,
+            "kod": "906",
+            "nazev": "Zahraniční spolek",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7863,
+            "kod": "962",
+            "nazev": "Zahraniční svěřenský fond",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7752,
+            "kod": "251",
+            "nazev": "Zájmová organizace družstev",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7733,
+            "kod": "116",
+            "nazev": "Zájmové sdružení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7837,
+            "kod": "751",
+            "nazev": "Zájmové sdružení právnických osob",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7810,
+            "kod": "621",
+            "nazev": "Základní škola",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7784,
+            "kod": "426",
+            "nazev": "Zastoupení zahraniční banky",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7845,
+            "kod": "901",
+            "nazev": "Zastupitelský orgán jiných států",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7718,
+            "kod": "000",
+            "nazev": "Zatím neurčeno",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7775,
+            "kod": "391",
+            "nazev": "Zdravotní pojišťovna (mimo VZP)",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7814,
+            "kod": "651",
+            "nazev": "Zdravotnické zařízení",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7726,
+            "kod": "107",
+            "nazev": "Zeměd.podnik.fyz.os.nezap.v OR",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7727,
+            "kod": "108",
+            "nazev": "Zeměd.podnik.fyz.os.zap.v OR",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7743,
+            "kod": "201",
+            "nazev": "Zemědělské družstvo",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 7820,
+            "kod": "704",
+            "nazev": "Zvláštní organizace pro zastoupení českých zájmů v mezinárodních nevládních organizacích",
+            "ciselnik": "FormaPravniSubjektivity",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        }
+    ]
+}

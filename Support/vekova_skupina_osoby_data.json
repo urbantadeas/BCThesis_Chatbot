@@ -1,0 +1,105 @@
+{
+    "pocet": 10,
+    "seznam": [
+        {
+            "id": 4600,
+            "kod": "10",
+            "nazev": "děti kojeneckého věku (do 1 roku)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4591,
+            "kod": "1",
+            "nazev": "děti předškolního věku (1 - 6 let)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4592,
+            "kod": "2",
+            "nazev": "mladší děti (7 –10 let)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4593,
+            "kod": "3",
+            "nazev": "starší děti (11 – 15 let)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4594,
+            "kod": "4",
+            "nazev": "dorost (16 – 18 let)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4595,
+            "kod": "5",
+            "nazev": "mladí dospělí (19 – 26 let)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4596,
+            "kod": "6",
+            "nazev": "dospělí (27 – 64 let)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4597,
+            "kod": "7",
+            "nazev": "mladší senioři (65 – 80 let)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4598,
+            "kod": "8",
+            "nazev": "starší senioři (nad 80 let)",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4599,
+            "kod": "9",
+            "nazev": "bez omezení věku",
+            "ciselnik": "VekovaSkupinaOsoby",
+            "platnostOd": 1569967200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        }
+    ]
+}

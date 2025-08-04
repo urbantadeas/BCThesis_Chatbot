@@ -1,0 +1,46 @@
+{
+    "list": [
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": "info@dsmachova.cz",
+            "fax": null,
+            "id": 309458086,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 7139,
+            "telefon": null,
+            "typSubjektu": "SocialniSluzba",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4473,
+                "kod": "mail",
+                "nazev": "E-mail",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 309458085,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 7139,
+            "telefon": null,
+            "typSubjektu": "SocialniSluzba",
+            "web": "www.dsmachova.cz",
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4479,
+                "kod": "web",
+                "nazev": "Webová adresa",
+                "vlastnosti": null
+            }
+        }
+    ]
+}

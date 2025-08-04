@@ -1,0 +1,262 @@
+{
+    "list": [
+        {
+            "adresa": {
+                "id": 4624622,
+                "strukturovanaAdresa": {
+                    "adresniMisto": {
+                        "castObce": {
+                            "id": 408352,
+                            "kod": null,
+                            "nazev": null,
+                            "obec": null,
+                            "platnostDo": null,
+                            "platnostOd": null
+                        },
+                        "cisloDomovni": 39,
+                        "cisloOrientacni": null,
+                        "id": 23636815,
+                        "kodAdresnihoMista": 23636815,
+                        "kodTypuCislaDomovniho": "1",
+                        "mestskyObvodMestskaCast": null,
+                        "psc": {
+                            "id": 46343,
+                            "kodPsc": null,
+                            "kodTypuPsc": null
+                        },
+                        "ulice": {
+                            "id": 249394,
+                            "kod": null,
+                            "nazev": null,
+                            "obec": null,
+                            "platnostDo": null,
+                            "platnostOd": null
+                        }
+                    },
+                    "aktualizovatZRuian": true,
+                    "cisloDomovni": 39,
+                    "cisloOrientacni": null,
+                    "dodatekAdresy": null,
+                    "id": 1636696,
+                    "jeOkresPraha": false,
+                    "kodAdresnihoMista": 23636815,
+                    "kodByvalehoOkresu": null,
+                    "kodCastiObce": "408352",
+                    "kodKraje": "78",
+                    "kodMomc": null,
+                    "kodMop": null,
+                    "kodObce": "563960",
+                    "kodOkresu": "3505",
+                    "kodSop": null,
+                    "kodUlice": "249394",
+                    "nazevByvalehoOkresu": null,
+                    "nazevCastiObce": "Český Dub IV",
+                    "nazevKraje": "Liberecký kraj",
+                    "nazevMomc": null,
+                    "nazevMop": null,
+                    "nazevObce": "Český Dub",
+                    "nazevObceProZobrazeni": "Český Dub",
+                    "nazevOkresu": "Liberec",
+                    "nazevSop": null,
+                    "nazevUlice": "Zámecká",
+                    "posta": null,
+                    "psc": "46343",
+                    "statusObce": 3,
+                    "typAdresy": 8044,
+                    "typCislaDomovnihoId": 4485,
+                    "typObceProZobrazeniId": 5402
+                },
+                "typZdroje": "rpss",
+                "volnaAdresa": null,
+                "zahranicniAdresa": null,
+                "zdroj": "1802_4539903_70581"
+            },
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 1965846,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": null,
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4470,
+                "kod": "adrZar",
+                "nazev": "Adresa sídla subjektu",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": "482 725 461",
+            "id": 1958334,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": null,
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4472,
+                "kod": "fax",
+                "nazev": "Fax",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": "radim.pochop@ddceskydub.cz",
+            "fax": null,
+            "id": 1958328,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": null,
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4473,
+                "kod": "mail",
+                "nazev": "E-mail",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 1958329,
+            "poznamka": "vedoucí sociální pracovník",
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": "482 362 015",
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4476,
+                "kod": "tel",
+                "nazev": "Telefon",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 1958330,
+            "poznamka": "ředitel",
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": "606 301 948",
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4476,
+                "kod": "tel",
+                "nazev": "Telefon",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 1958331,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": "485 147 072",
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4476,
+                "kod": "tel",
+                "nazev": "Telefon",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 1958332,
+            "poznamka": "ekonom",
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": "482 362 010",
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4476,
+                "kod": "tel",
+                "nazev": "Telefon",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 1958333,
+            "poznamka": "ředitel",
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": "482 362 013",
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4476,
+                "kod": "tel",
+                "nazev": "Telefon",
+                "vlastnosti": null
+            }
+        },
+        {
+            "adresa": null,
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 1958335,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 1148,
+            "telefon": null,
+            "typSubjektu": "PoskytovatelSocialniSluzbyFoNeboPo",
+            "web": "www.ddceskydub.cz",
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4479,
+                "kod": "web",
+                "nazev": "Webová adresa",
+                "vlastnosti": null
+            }
+        }
+    ]
+}

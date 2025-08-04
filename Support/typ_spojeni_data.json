@@ -1,0 +1,155 @@
+{
+    "pocet": 15,
+    "seznam": [
+        {
+            "id": 4471,
+            "kod": "ds",
+            "nazev": "Datová schránka",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4473,
+            "kod": "mail",
+            "nazev": "E-mail",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4474,
+            "kod": "mailp",
+            "nazev": "E-mail pracovní",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4475,
+            "kod": "mails",
+            "nazev": "E-mail soukromý",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4472,
+            "kod": "fax",
+            "nazev": "Fax",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4480,
+            "kod": "adrKont",
+            "nazev": "Kontaktní adresa",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4476,
+            "kod": "tel",
+            "nazev": "Telefon",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4477,
+            "kod": "telp",
+            "nazev": "Telefon pracovní",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4478,
+            "kod": "tels",
+            "nazev": "Telefon soukromý",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4479,
+            "kod": "web",
+            "nazev": "Webová adresa",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4466,
+            "kod": "adrTrv",
+            "nazev": "Adresa trvalého pobytu",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4467,
+            "kod": "adrSk",
+            "nazev": "Adresa skutečného pobytu",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4468,
+            "kod": "adrDor",
+            "nazev": "Adresa pro doručování",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4469,
+            "kod": "adrPos",
+            "nazev": "Adresa poštovního poukazu na jinou adresu",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 4470,
+            "kod": "adrZar",
+            "nazev": "Adresa sídla subjektu",
+            "ciselnik": "TypSpojeni",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "list": [
+        {
+            "adresa": {
+                "id": 332820537,
+                "strukturovanaAdresa": {
+                    "adresniMisto": {
+                        "castObce": {
+                            "id": 408409,
+                            "kod": null,
+                            "nazev": null,
+                            "obec": null,
+                            "platnostDo": null,
+                            "platnostOd": null
+                        },
+                        "cisloDomovni": 845,
+                        "cisloOrientacni": null,
+                        "id": 80112340,
+                        "kodAdresnihoMista": 86327879,
+                        "kodTypuCislaDomovniho": "1",
+                        "mestskyObvodMestskaCast": null,
+                        "psc": {
+                            "id": 46334,
+                            "kodPsc": null,
+                            "kodTypuPsc": null
+                        },
+                        "ulice": {
+                            "id": 251194,
+                            "kod": null,
+                            "nazev": null,
+                            "obec": null,
+                            "platnostDo": null,
+                            "platnostOd": null
+                        }
+                    },
+                    "aktualizovatZRuian": true,
+                    "cisloDomovni": 845,
+                    "cisloOrientacni": null,
+                    "dodatekAdresy": null,
+                    "id": 102398635,
+                    "jeOkresPraha": false,
+                    "kodAdresnihoMista": 86327879,
+                    "kodByvalehoOkresu": null,
+                    "kodCastiObce": "408409",
+                    "kodKraje": "78",
+                    "kodMomc": null,
+                    "kodMop": null,
+                    "kodObce": "564095",
+                    "kodOkresu": "3505",
+                    "kodSop": null,
+                    "kodUlice": "251194",
+                    "nazevByvalehoOkresu": null,
+                    "nazevCastiObce": "Hrádek nad Nisou",
+                    "nazevKraje": "Liberecký kraj",
+                    "nazevMomc": null,
+                    "nazevMop": null,
+                    "nazevObce": "Hrádek nad Nisou",
+                    "nazevObceProZobrazeni": "Hrádek nad Nisou",
+                    "nazevOkresu": "Liberec",
+                    "nazevSop": null,
+                    "nazevUlice": "Oldřichovská",
+                    "posta": null,
+                    "psc": "46334",
+                    "statusObce": 3,
+                    "typAdresy": 8044,
+                    "typCislaDomovnihoId": 4485,
+                    "typObceProZobrazeniId": 5402
+                },
+                "typZdroje": "rpss",
+                "volnaAdresa": null,
+                "zahranicniAdresa": null,
+                "zdroj": "1802_53294199_30863119"
+            },
+            "datovaSchranka": null,
+            "email": null,
+            "fax": null,
+            "id": 309071363,
+            "poznamka": null,
+            "spojeniDo": null,
+            "spojeniOd": null,
+            "subjektId": 15239,
+            "telefon": null,
+            "typSubjektu": "ZarizeniSocialniSluzby",
+            "web": null,
+            "typSpojeni": {
+                "ciselnik": "TypSpojeni",
+                "id": 4470,
+                "kod": "adrZar",
+                "nazev": "Adresa sídla subjektu",
+                "vlastnosti": null
+            }
+        }
+    ]
+}

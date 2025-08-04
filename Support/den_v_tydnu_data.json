@@ -1,0 +1,75 @@
+{
+    "pocet": 7,
+    "seznam": [
+        {
+            "id": 3774,
+            "kod": "pon",
+            "nazev": "Pondělí",
+            "ciselnik": "DenVTydnu",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3775,
+            "kod": "ut",
+            "nazev": "Úterý",
+            "ciselnik": "DenVTydnu",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3776,
+            "kod": "st",
+            "nazev": "Středa",
+            "ciselnik": "DenVTydnu",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3777,
+            "kod": "ctv",
+            "nazev": "Čtvrtek",
+            "ciselnik": "DenVTydnu",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3778,
+            "kod": "pa",
+            "nazev": "Pátek",
+            "ciselnik": "DenVTydnu",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3779,
+            "kod": "so",
+            "nazev": "Sobota",
+            "ciselnik": "DenVTydnu",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3780,
+            "kod": "ne",
+            "nazev": "Neděle",
+            "ciselnik": "DenVTydnu",
+            "platnostOd": 1514761200000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        }
+    ]
+}

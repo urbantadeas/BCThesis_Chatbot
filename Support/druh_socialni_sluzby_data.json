@@ -1,0 +1,345 @@
+{
+    "pocet": 34,
+    "seznam": [
+        {
+            "id": 3854,
+            "kod": "20",
+            "nazev": "azylové domy",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3843,
+            "kod": "9",
+            "nazev": "centra denních služeb",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 11078,
+            "kod": "35",
+            "nazev": "centrum duševního zdraví",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3844,
+            "kod": "10",
+            "nazev": "denní stacionáře",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3846,
+            "kod": "12",
+            "nazev": "domovy pro osoby se zdravotním postižením",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3847,
+            "kod": "13",
+            "nazev": "domovy pro seniory",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3848,
+            "kod": "14",
+            "nazev": "domovy se zvláštním režimem",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3855,
+            "kod": "21",
+            "nazev": "domy na půl cesty",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3849,
+            "kod": "15",
+            "nazev": "chráněné bydlení",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3868,
+            "kod": "34",
+            "nazev": "intervenční centra",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3856,
+            "kod": "22",
+            "nazev": "kontaktní centra",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3857,
+            "kod": "23",
+            "nazev": "krizová pomoc",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3858,
+            "kod": "24",
+            "nazev": "nízkoprahová denní centra",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3859,
+            "kod": "25",
+            "nazev": "nízkoprahová zařízení pro děti a mládež",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3860,
+            "kod": "26",
+            "nazev": "noclehárny",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3836,
+            "kod": "1",
+            "nazev": "odborné sociální poradenství",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3842,
+            "kod": "8",
+            "nazev": "odlehčovací služby",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3837,
+            "kod": "3",
+            "nazev": "osobní asistence",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3838,
+            "kod": "4",
+            "nazev": "pečovatelská služba",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3841,
+            "kod": "7",
+            "nazev": "podpora samostatného bydlení",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3840,
+            "kod": "6",
+            "nazev": "průvodcovské a předčitatelské služby",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3851,
+            "kod": "17",
+            "nazev": "raná péče",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3861,
+            "kod": "27",
+            "nazev": "služby následné péče",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3862,
+            "kod": "28",
+            "nazev": "sociálně aktivizační služby pro rodiny s dětmi",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3863,
+            "kod": "29",
+            "nazev": "sociálně aktivizační služby pro seniory a osoby se zdravotním postižením",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3864,
+            "kod": "30",
+            "nazev": "sociálně terapeutické dílny",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3867,
+            "kod": "33",
+            "nazev": "sociální rehabilitace",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3850,
+            "kod": "16",
+            "nazev": "sociální služby poskytované ve zdravotnických zařízeních lůžkové péče",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3852,
+            "kod": "18",
+            "nazev": "telefonická krizová pomoc",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3865,
+            "kod": "31",
+            "nazev": "terapeutické komunity",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3866,
+            "kod": "32",
+            "nazev": "terénní programy",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3839,
+            "kod": "5",
+            "nazev": "tísňová péče",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3853,
+            "kod": "19",
+            "nazev": "tlumočnické služby",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        },
+        {
+            "id": 3845,
+            "kod": "11",
+            "nazev": "týdenní stacionáře",
+            "ciselnik": "DruhSocialniSluzby",
+            "platnostOd": 1721772000000,
+            "platnostDo": null,
+            "vlastnosti": null,
+            "polozky": null
+        }
+    ]
+}
