@@ -9,7 +9,7 @@ This repository contains the implementation of my bachelor thesis project focuse
 
 Read the bachelor thesis with the reviews [here](https://dspace.cvut.cz/handle/10467/126527?locale-attribute=en).
 
-Results of my testing could be found in the [`/validations`](\validations) folder. For better understanding, please refer to the thesis.
+Results of my testing could be found in the [`/validations`](validations/) folder. For better understanding, please refer to the thesis.
 
 
 If you have any questions or feedback, feel free to reach out at urbantad@fjfi.cvut.cz.
